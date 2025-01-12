@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Alisha Sultan</h1>
 <h3 align="center">From Pixels to Predictions: A Dual Passion for Web Development and Data Science</h3>
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/thumbnail/animated-man-coding-horror-07rzkyo7h5j9cptk.gif">
+<img align="right" alt="Coding" src="https://gifdb.com/images/thumbnail/animated-man-coding-horror-07rzkyo7h5j9cptk.gif">
 <p align="left"> <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" alt="alishasultan" width="350" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishasultan" alt="alishasultan" /></a> </p>
