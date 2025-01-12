@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishasultan" alt="alishasultan" /></a> </p>
 
-- 🔭 I’m currently working on **Debri Glacier Detection System**
+- 🔭 **Associate Software Engineer @Manafa Technologies**
 
-- 🌱 I’m currently learning **ReactJs|Deep Learning|Machine Learning**
+- 🌱 I’m currently learning **JavaScipt|PHP|Laravel|JQuery|Python**
 
-- 💬 Ask me about **Python|Python GUI|DL|ML|ReactJs**
+- 💬 Ask me about **JavaScipt|PHP|Laravel|JQuery|Python**
 
 - 📫 How to reach me **alishasultan0123@gmail.com**
 
